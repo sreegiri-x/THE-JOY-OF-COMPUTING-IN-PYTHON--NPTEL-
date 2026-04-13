@@ -3,8 +3,22 @@
 
 ---
 
+## Section 1
+
+Rohan is learning how to build simple games using the Scratch editor. He creates a sprite and names it Robo. Robo is placed at the centre of the stage and is programmed to perform actions repeatedly while keeping track of numbers on the screen.
+
+Rohan wants Robo to count actions and update a score while the program runs. For this purpose, he creates two variables:
+- counter
+- score
+
+Both variables are shown on the stage so their values can be seen while the program is running.
+
+When Rohan clicks the green flag, Robo starts executing the program step by step.
+
+---
+
 ### Question 1
-**What will be the final value of `counter` after the program finishes execution?**
+**What will be the final value of counter after the program finishes execution?**
 
 - 8  
 - 5  
@@ -16,7 +30,7 @@
 ---
 
 ### Question 2
-**What will be the value of `score` after the first repeat loop ends?**
+**What will be the value of score after the first repeat loop ends?**
 
 - 20  
 - 24  
@@ -28,7 +42,7 @@
 ---
 
 ### Question 3
-**What is the final value of `score` that the sprite will say?**
+**What is the final value of score that the sprite will say?**
 
 - 22  
 - 28  
@@ -40,7 +54,7 @@
 ---
 
 ### Question 4
-**How many times in total is the `change counter by 1` block executed?**
+**How many times in total is the change counter by 1 block executed?**
 
 - 3  
 - 5  
@@ -63,8 +77,23 @@
 
 ---
 
+## Section 2
+
+Arjun is developing a practice game in the Scratch editor to test how well players perform across multiple rounds. The game uses a sprite named Runner, which earns points as the game progresses and decides the final result based on the total performance.
+
+To manage the game, Arjun creates three variables: score, counter, and bonus.  
+- score → total points earned  
+- counter → number of rounds completed  
+- bonus → extra points based on performance  
+
+When the green flag is clicked, the game begins with fixed starting values. Runner then goes through a fixed number of rounds. In each round, values change and additional checks are performed.
+
+After all rounds are completed, the total bonus is added to the score. The sprite displays only one final message based on the final score.
+
+---
+
 ### Question 6
-**What will be the final value of `counter` after the program finishes execution?**
+**What will be the final value of counter after the program finishes execution?**
 
 - 5  
 - 6  
@@ -76,7 +105,7 @@
 ---
 
 ### Question 7
-**What will be the value of `score` immediately after the repeat loop ends (before adding bonus)?**
+**What will be the value of score immediately after the repeat loop ends (before adding bonus)?**
 
 - 30  
 - 36  
@@ -88,7 +117,7 @@
 ---
 
 ### Question 8
-**What will be the final value of `bonus` after the loop completes?**
+**What will be the final value of bonus after the loop completes?**
 
 - 6  
 - 9  
@@ -100,7 +129,7 @@
 ---
 
 ### Question 9
-**What is the final value of `score` after the bonus is added?**
+**What is the final value of score after the bonus is added?**
 
 - 42  
 - 48  
@@ -123,8 +152,24 @@
 
 ---
 
+## Section 3
+
+Kabir is creating a small simulation using the Scratch editor to understand how devices behave when their battery level changes over time.
+
+He creates two variables:
+- battery → remaining power level  
+- cycles → number of operation cycles  
+
+When the green flag is clicked, the device starts with a certain battery level and begins operating continuously. With each cycle:
+- battery decreases  
+- cycles increases  
+
+The device stops when battery reaches a critical level and displays a message.
+
+---
+
 ### Question 11
-**What will be the final value of `battery` when the loop stops?**
+**What will be the final value of battery when the loop stops?**
 
 - 18  
 - 14  
@@ -136,7 +181,7 @@
 ---
 
 ### Question 12
-**How many times does the `repeat until` loop execute?**
+**How many times does the repeat until loop execute?**
 
 - 4  
 - 5  
@@ -148,7 +193,7 @@
 ---
 
 ### Question 13
-**What will be the final value of `cycles` after the program finishes?**
+**What will be the final value of cycles after the program finishes?**
 
 - 5  
 - 4  
@@ -160,7 +205,7 @@
 ---
 
 ### Question 14
-**Which statement about the `repeat until` block is TRUE in Scratch?**
+**Which statement about the repeat until block is TRUE in Scratch?**
 
 - The loop always runs at least once  
 - The loop checks the condition after executing the body  
